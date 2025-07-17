@@ -1,12 +1,20 @@
-# 🎙️ VOXIME - SenseVox 输入法
+<p align="center">
+  <img width="200" height="200" alt="VOXIME Icon" src="https://github.com/user-attachments/assets/8ea0f822-96eb-4914-9022-147d7b6af10c" />
+</p>
 
-一个基于语音识别的 Android 输入法，通过 HTTP 接口与本地或远程 ASR 服务通信。
+<h1 align="center"> VOXIME</h1>
+<h3 align="center"> SenseVox 输入法</h3>
 
-<img src="./image.jpg" alt="项目示意图" width="300" />
+<p align="center">一个基于语音识别的 Android 输入法，通过 HTTP 接口与本地或远程 ASR 服务通信。</p>
+
+<p align="center">
+  <img src="./image.jpg" alt="项目示意图" width="300" />
+</p>
 
 ---
 
 ## 🚀 使用方法
+
 
 ### 1. 设置服务器地址
 
@@ -48,13 +56,13 @@ curl -X POST http://127.0.0.1:8000/asr \
 
 ## ✨ 特性
 
-- 按下录音键立刻滑动手指能移动光标（光标可能移出输入框到其他组件 算不算bug待定）
+- 按下录音键立刻滑动手指能上下左右移动光标（光标可能移出输入框到其他组件 算不算bug待定）
 
 ---
 
 ## 📝 待办事项
 
-- [ ] AI 自动纠错功能
+- [ ] AI 纠正错别字
 - [ ] 自定义输入法背景图
 - [ ] 移除识别结果里的标点符号/用空格替换标点符号
 
