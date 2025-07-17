@@ -33,6 +33,8 @@ Enter the address of your ASR service on the app's main screen:
 
 ## 📡 API Specification
 
+Server programs: [asrmaid](https://github.com/dapanggougou/asrmaid) , [asrmaid_python](https://github.com/dapanggougou/asrmaid_python)
+
 Currently supports only the following interface format:
 
 ```bash
