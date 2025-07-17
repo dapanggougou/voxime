@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use [▶ Watch Demo](./demo.mp4)
 
 ### 1. Set the Server Address
 
