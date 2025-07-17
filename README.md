@@ -2,7 +2,7 @@
 
 一个基于语音识别的 Android 输入法，通过 HTTP 接口与本地或远程 ASR 服务通信。
 
-<img src="./image.jpg" alt="项目示意图" width="200" />
+<img src="./image.jpg" alt="项目示意图" width="300" />
 
 ---
 
