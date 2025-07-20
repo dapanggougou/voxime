@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="170" height="170" alt="VOXIME Icon" src="https://github.com/user-attachments/assets/8ea0f822-96eb-4914-9022-147d7b6af10c" />
+  <img width="170" height="170" alt="VOXIME Icon" src="https://github.com/user-attachments/assets/820c736c-5fc4-44af-9e10-5568ab8a5818" />
 </p>
 
 <h1 align="center"> VOXIME</h1>
